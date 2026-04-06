@@ -27,13 +27,13 @@
 
 ☁️ Interested in building **scalable, reliable, and production-ready systems**
 
-🚀 Currently learning:
+### 🚀 Currently learning:
 
 * AWS Cloud & DevOps workflows
 * Docker & Kubernetes
 * Infrastructure as Code (Terraform)
 
-📚 Exploring:
+### 📚 Exploring:
 
 * System Design
 * Reliability Engineering
@@ -62,12 +62,12 @@
 ## 🤝 Connect With Me
 
 <p align="center"> <a href="https://github.com/Chaitanya5068"> <img src="https://img.shields.io/badge/GitHub-Chaitanya5068-black?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/chaitanya-bhosale"> <img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Bhosale-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:chaitanya5068@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/> </a> </p>
+
 ---
 
 ## ⚡ Mindset
 
 💡 *"Learning by building, scaling by understanding, and growing through consistency."*
-
 
 ---
 
