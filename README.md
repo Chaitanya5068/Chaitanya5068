@@ -3,7 +3,7 @@
 <img width="1536" height="375" alt="PhotoshopExtension_Image" src="https://github.com/user-attachments/assets/005ed115-b599-40d6-be78-058f5929ab4d" />
 
 
-<h1 align="center">👋 Hi, I'm Chaitanya Bhosale</h1>
+<h1 align="center">👋 Hi, I'm Chaitanya Sambhaji Bhosale</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+DevOps+Engineering+Aspirant;Cloud+Computing+%26+AWS+DevOps+Learner;Building+Scalable+%26+Reliable+Systems;Always+Learning+%F0%9F%9A%80"/>
