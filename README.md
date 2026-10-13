@@ -29,9 +29,9 @@
 
 ### 🚀 Currently learning:
 
-* AWS Cloud & DevSecSOps workflows
+* AWS Cloud & DevSecOps workflows
 * Docker & Kubernetes
-* Infrastructure as Code (Terraform)s
+* Infrastructure as Code (Terraform)
 
 ### 📚 Exploring:
 
